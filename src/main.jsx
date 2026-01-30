@@ -8,9 +8,5 @@ import { router } from "./router/Router.jsx";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <RouterProvider router={router} />
-<<<<<<< HEAD
   </StrictMode>
-=======
-  </StrictMode>,
->>>>>>> 212b909 (modified template with a bisic layout connected with router, and proffessional file structure)
 );
